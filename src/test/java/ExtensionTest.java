@@ -10,6 +10,7 @@ class ExtensionTest {
 
     @Test void test01() {
         System.out.println("current test is test01...");
+		System.out.println();
     }
 
     @Test void test02(User user) {
